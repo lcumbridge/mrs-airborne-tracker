@@ -404,7 +404,7 @@ block before the next flight to ensure repeatability.
    link latency this is not a significant error source, but it becomes a systematic
    limitation at higher latencies or when XBee frames are dropped and retried. This
    is the highest-priority field to add in a frame format revision. Tracked in
-   [Issue #1](https://github.com/lcumbridge/mrs-airborne-tracker/issues/1).
+   [Issue #3](https://github.com/lcumbridge/mrs-airborne-tracker/issues/3).
 
 2. **BMP581 LGA cold-solder susceptibility.** The BMP581 is packaged in a 10-pad LGA
    (land grid array) with no visible solder joints after reflow. During hardware
