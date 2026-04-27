@@ -82,7 +82,7 @@ gyroscope stabiliser for fixed-wing aircraft while transmitting tracking telemet
 
 ## Wiring Summary
 
-> Full schematic available in [`/docs/airborne-schematic.pdf`](docs/airborne-schematic.pdf).
+> Full schematic available in [`/docs/Teensy_Fixedwing_Gyro.pdf`](docs/Teensy_Fixedwing_Gyro.pdf).
 
 ### SPI1 — ICM-20948
 
